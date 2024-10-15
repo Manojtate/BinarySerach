@@ -36,3 +36,10 @@ public class App {
           return -1;
     }
 }
+
+/*Time Complexity: O(log n) 
+* - Because the search space is halved with each iteration.
+
+* Space Complexity: O(1)
+
+*/
